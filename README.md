@@ -11,9 +11,9 @@
 Send messages, display your time, control your HUD, and more — all from one sleek desktop app.
 
 [Download](#installation) · [Features](#features) · [Support](#support) · [Legal](#legal-notice)
-![VRC-NexusChat Banner](banner.svg)
-</div>
 
+</div>
+![VRC-NexusChat Banner](banner.svg)
 ---
 
 > [!IMPORTANT]
