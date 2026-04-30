@@ -51,12 +51,12 @@ Built with **Electron**, **React**, and **TypeScript** for a fast, modern experi
 
 | Feature | Status | Description |
 |---|---|---|
-| 💬 Chatbox | ✅ Available | Send custom messages to your VRChat Chatbox |
-| ⏱️ Local Time | ✅ Available | Automatically display your local time in VRChat |
-| 🎵 Spotify | 🚧 Coming Soon | Show your currently playing song in VRChat |
-| 🥽 HUD Settings | 🚧 Coming Soon | Customize your VR HUD display |
-| 🌤️ Weather | 🔜 Planned | Display local weather in your Chatbox |
-| 💤 AFK Module | 🔜 Planned | Automatically set AFK status |
+|  Chatbox |  Available | Send custom messages to your VRChat Chatbox |
+|  Local Time |  Available | Automatically display your local time in VRChat |
+|  Spotify |  Coming Soon | Show your currently playing song in VRChat |
+|  HUD Settings |  Coming Soon | Customize your VR HUD display |
+|  Weather |  Planned | Display local weather in your Chatbox |
+|  AFK Module |  Planned | Automatically set AFK status |
 
 ---
 
@@ -68,6 +68,7 @@ VRC-NexusChat  →  OSC (UDP Port 9000)  →  VRChat Chatbox
 
 VRC-NexusChat sends OSC messages directly to VRChat running on your PC.  
 No internet connection required — everything runs locally.
+The HUD will work with out eny other softwear
 
 ---
 
@@ -88,8 +89,8 @@ No internet connection required — everything runs locally.
 > Need help? More support options are coming soon!
 
 If you run into any issues:
-- 🐛 **Bug?** Open an **[Issue](../../issues)** on GitHub
-- 💡 **Feature Request?** Open a **[Discussion](../../discussions)** on GitHub
+-  **Bug?** Open an **[Issue](../../issues)** on GitHub
+-  **Feature Request?** Open a **[Discussion](../../discussions)** on GitHub
 
 ---
 
@@ -99,6 +100,8 @@ If you run into any issues:
 - [x] Local time display
 - [ ] Spotify integration
 - [ ] HUD customization
+- [ ] better Overlay 
+- [ ] Settings 
 - [ ] Weather display
 - [ ] AFK module
 - [ ] Auto-updater
