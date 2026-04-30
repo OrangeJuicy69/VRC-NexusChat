@@ -1,0 +1,80 @@
+<svg width="680" height="320" viewBox="0 0 680 320" role="img" xmlns="http://www.w3.org/2000/svg">
+  <title>VRC-NexusChat Banner</title>
+  <desc>Dark banner with VR headset icon and VRC-NexusChat branding by Juicy</desc>
+
+  <style>
+    .bg { fill: #0d0d1a; }
+    .dim-line { stroke: #1e1e4a; stroke-width: 1; fill: none; }
+    .glow-line { stroke: #e94560; stroke-width: 1.5; fill: none; }
+    .accent { fill: #e94560; }
+    .dot { fill: #e94560; }
+    .title { font-family: 'Segoe UI', sans-serif; font-size: 38px; font-weight: 700; fill: #ffffff; letter-spacing: 1px; }
+    .sub { font-family: 'Segoe UI', sans-serif; font-size: 13px; font-weight: 400; fill: #6666aa; letter-spacing: 3px; }
+    .by { font-family: 'Segoe UI', sans-serif; font-size: 11px; font-weight: 400; fill: #44446a; }
+    .badge-text { font-family: 'Segoe UI', sans-serif; font-size: 10px; font-weight: 600; fill: #e94560; letter-spacing: 1px; }
+    .headset-body { fill: #1a1a3e; stroke: #2a2a5e; stroke-width: 1.5; }
+    .headset-lens { fill: #0d0d1a; stroke: #e94560; stroke-width: 1.5; }
+    .headset-strap { fill: none; stroke: #2a2a5e; stroke-width: 2; }
+    .headset-glow { fill: none; stroke: #e94560; stroke-width: 0.75; opacity: 0.4; }
+  </style>
+
+  <!-- Background -->
+  <rect class="bg" x="0" y="0" width="680" height="320" rx="16"/>
+
+  <!-- Grid lines -->
+  <line class="dim-line" x1="0" y1="80" x2="680" y2="80" opacity="0.3"/>
+  <line class="dim-line" x1="0" y1="240" x2="680" y2="240" opacity="0.3"/>
+  <line class="dim-line" x1="200" y1="0" x2="200" y2="320" opacity="0.2"/>
+  <line class="dim-line" x1="480" y1="0" x2="480" y2="320" opacity="0.2"/>
+
+  <!-- Accent lines -->
+  <line class="glow-line" x1="40" y1="18" x2="640" y2="18" opacity="0.6"/>
+  <line class="glow-line" x1="40" y1="302" x2="640" y2="302" opacity="0.6"/>
+
+  <!-- Corner dots -->
+  <circle class="dot" cx="40" cy="18" r="3"/>
+  <circle class="dot" cx="640" cy="18" r="3"/>
+  <circle class="dot" cx="40" cy="302" r="3"/>
+  <circle class="dot" cx="640" cy="302" r="3"/>
+
+  <!-- VR Headset -->
+  <g transform="translate(120, 160)">
+    <ellipse class="headset-glow" cx="0" cy="0" rx="72" ry="52"/>
+    <ellipse class="headset-glow" cx="0" cy="0" rx="80" ry="58" opacity="0.2"/>
+    <rect class="headset-body" x="-58" y="-30" width="116" height="55" rx="14"/>
+    <rect class="headset-lens" x="-52" y="-22" width="42" height="38" rx="8"/>
+    <rect class="headset-lens" x="-2" y="-22" width="42" height="38" rx="8"/>
+    <rect fill="none" stroke="#e94560" stroke-width="0.75" opacity="0.5" x="-48" y="-18" width="34" height="30" rx="6"/>
+    <rect fill="none" stroke="#e94560" stroke-width="0.75" opacity="0.5" x="2" y="-18" width="34" height="30" rx="6"/>
+    <circle fill="#e94560" opacity="0.6" cx="-31" cy="-3" r="4"/>
+    <circle fill="#e94560" opacity="0.6" cx="19" cy="-3" r="4"/>
+    <rect fill="#e94560" x="-6" y="-4" width="12" height="3" rx="1.5" opacity="0.8"/>
+    <path class="headset-strap" d="M -40 -30 Q 0 -55 40 -30"/>
+    <line class="headset-strap" x1="-58" y1="-8" x2="-78" y2="-4"/>
+    <line class="headset-strap" x1="58" y1="-8" x2="78" y2="-4"/>
+    <rect class="headset-body" x="-84" y="-10" width="10" height="12" rx="3"/>
+    <rect class="headset-body" x="74" y="-10" width="10" height="12" rx="3"/>
+    <rect fill="#e94560" x="-20" y="22" width="40" height="3" rx="1.5" opacity="0.5"/>
+  </g>
+
+  <!-- Divider -->
+  <line x1="240" y1="60" x2="240" y2="260" stroke="#1e1e4a" stroke-width="1" opacity="0.8"/>
+
+  <!-- Title -->
+  <text class="title" x="290" y="148">VRC-NexusChat</text>
+  <rect class="accent" x="290" y="158" width="340" height="3" rx="1.5"/>
+
+  <!-- Subtitle -->
+  <text class="sub" x="292" y="185">VRC OSC COMPANION</text>
+
+  <!-- Badges -->
+  <rect fill="none" stroke="#e94560" stroke-width="1" x="292" y="200" width="68" height="20" rx="4" opacity="0.6"/>
+  <text class="badge-text" x="326" y="214" text-anchor="middle">ELECTRON</text>
+  <rect fill="none" stroke="#e94560" stroke-width="1" x="368" y="200" width="48" height="20" rx="4" opacity="0.6"/>
+  <text class="badge-text" x="392" y="214" text-anchor="middle">REACT</text>
+  <rect fill="none" stroke="#e94560" stroke-width="1" x="424" y="200" width="32" height="20" rx="4" opacity="0.6"/>
+  <text class="badge-text" x="440" y="214" text-anchor="middle">OSC</text>
+
+  <!-- Made by -->
+  <text class="by" x="292" y="248">made by Juicy  •  v1.0.0</text>
+</svg>
