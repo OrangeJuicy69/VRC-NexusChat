@@ -13,8 +13,8 @@ Send messages, display your time, control your HUD, and more — all from one sl
 [Download](#installation) · [Features](#features) · [Support](#support) · [Legal](#legal-notice)
 
 </div>
+
 ![VRC-NexusChat Banner](banner.svg)
----
 
 > [!IMPORTANT]
 > Please make sure to **[enable OSC](https://youtu.be/OHjN_q6RqGY?t=80)** inside VRChat before using VRC-NexusChat.  
