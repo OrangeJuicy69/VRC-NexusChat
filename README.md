@@ -7,8 +7,7 @@
 ![License](https://img.shields.io/badge/license-Proprietary-orange?style=for-the-badge)
 ![Status](https://img.shields.io/badge/status-Early%20Access-green?style=for-the-badge)
 
-**The ultimate VRChat OSC companion — built for the community, by the community.**  
-Send messages, display your time, control your HUD, and more — all from one sleek desktop app.
+**VRC-NexusChat is a powerful VRChat OSC companion that lets you send Chatbox messages, display your local time, show your Spotify music, control your VR HUD, and much more — all from one sleek desktop app.**
 
 [Download](#installation) · [Features](#features) · [Support](#support) · [Legal](#legal-notice)
 
