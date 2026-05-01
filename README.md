@@ -14,7 +14,7 @@ Send messages, display your time, control your HUD, and more — all from one sl
 
 </div>
 
-![VRC-NexusChat Banner](banner.svg)
+  ![VRC-NexusChat Banner](banner.svg)
 
 > [!IMPORTANT]
 > Please make sure to **[enable OSC](https://youtu.be/OHjN_q6RqGY?t=80)** inside VRChat before using VRC-NexusChat.  
